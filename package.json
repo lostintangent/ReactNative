@@ -1,0 +1,13 @@
+{
+  "name": "ReactNative",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "immutable": "^3.7.2",
+    "react-native": "^0.3.11",
+    "reflux": "^0.2.7"
+  }
+}
